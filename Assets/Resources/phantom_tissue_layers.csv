@@ -1,0 +1,4 @@
+procedure_id,layer_order,tissue_name,depth_start_mm,depth_end_mm,force_min_N,force_max_N,vibration_low_Hz,vibration_high_Hz,pop_event,haptic_descriptor
+VAX01,1,Skin,0,3,3,6,200,400,true,Sharp skin puncture
+VAX01,2,Subcutaneous Tissue,3,12,0.3,1.0,20,60,false,Soft tissue resistance
+VAX01,3,Muscle,12,25,1.5,3.5,50,120,false,Moderate muscle resistance
